@@ -2,6 +2,20 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [0.3.2] - 2025-03-16
+
+### 🐛 Bug Fixes
+- **[WEB]** *(dashboard)* Fixed some sections descriptions
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v0.3.2
+- **[WEB]** Updated to v0.3.2
+- **[BACKEND]** Updated to v0.3.2
+
+### 🚀 Features
+- **[CLIENT]** Clean & unload with game closed
+- **[BACKEND]** Clean & unload with game closed
+
 ## [0.3.1] - 2025-03-16
 
 ### 🐛 Bug Fixes

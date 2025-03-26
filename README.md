@@ -2,6 +2,42 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [0.4.0] - 2025-03-25
+
+### 🌳 Quality of Life Improvements
+- **[WEB]** *(dashboard)* Added "hp" after the health value
+
+### 🐛 Bug Fixes
+- **[CLIENT]** *(menu)* Popups hierarchy (including color pickers)
+- **[CLIENT]** *(core)* Health & armour value approximation
+- **[CLIENT]** *(menu)* Weapon exploits values rounded to two decimal places
+- **[CLIENT]** *(menu)* Fixed sliders transparent bug
+- **[CLIENT]** *(core)* Streamproof now only enables if desired
+- **[WEB]** *(dashboard)* Fixed color pickers
+- **[WEB]** *(home)* Centered pricing section
+- **[WEB]** *(dashboard)* Fixed recoil, spread & reload_time values
+- **[WEB]** *(dashboard)* Weapon exploits values rounded to two decimal places
+- **[BACKEND]** *(stream)* Temp fix for timecheck
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v0.4.0
+- **[WEB]** Updated to v0.4.0
+- **[BACKEND]** Updated to v0.4.0
+
+### 🚀 Features
+- **[CLIENT]** Support for windows 24H2
+- **[CLIENT]** *(security)* Added security clamp to health & armour values
+- **[CLIENT]** *(menu)* Disable health & armour sliders if not in game
+- **[CLIENT]** *(core)* Prevent shadowplay from stopping recording with streamproof
+- **[WEB]** *(tos)* Added windows 11 below 23h2
+- **[WEB]** *(tos)* Added windows 11 24H2
+- **[WEB]** *(home)* Updated free trial FaQ
+- **[WEB]** *(home)* Added Revolut payment method
+- **[WEB]** *(home)* Added specific supported winvers to FaQ
+- **[WEB]** *(dashboard)* Increased max online users graph to 64
+- **[WEB]** *(home)* Updated showcase video to v0.4.0
+- **[BACKEND]** Support for windows 24H2
+
 ## [0.3.2] - 2025-03-16
 
 ### 🐛 Bug Fixes

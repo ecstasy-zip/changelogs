@@ -2,6 +2,19 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [0.4.1] - 2025-03-29
+
+### 🐛 Bug Fixes
+- **[CLIENT]** *(core)* Fixed head markers colors
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v0.4.1
+- **[WEB]** Updated to v0.4.1
+- **[BACKEND]** Updated to v0.4.1
+
+### 🚀 Features
+- **[CLIENT]** *(core)* Prevent file recovery
+
 ## [0.4.0] - 2025-03-25
 
 ### 🌳 Quality of Life Improvements

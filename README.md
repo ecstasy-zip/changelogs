@@ -2,6 +2,25 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [0.5.0] - 2025-04-01
+
+### 🌳 Quality of Life Improvements
+- **[BOOT-AGENT]** *(msg)* Changed "try again later" to "open a ticket"
+
+### 🐛 Bug Fixes
+- **[WEB]** *(home)* Fixed showcase video not playing on IOS
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v0.5.0
+- **[WEB]** Updated to v0.5.0
+- **[BACKEND]** Updated to v0.5.0
+
+### 🚀 Features
+- **[CLIENT]** Proper physical memory page collector
+- **[CLIENT]** *(clean)* Added driver unload
+- **[BACKEND]** *(download)* Generate size, timestamp and hash on the fly
+- **[BOOT-AGENT]** *(security)* Anti virustotal & MS defender detection
+
 ## [0.4.1] - 2025-03-29
 
 ### 🐛 Bug Fixes

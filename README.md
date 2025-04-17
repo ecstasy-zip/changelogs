@@ -2,6 +2,33 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [0.6.1] - 2025-04-17
+
+### 🐛 Bug Fixes
+- **[CLIENT]** *(crash)* Fixed crash after game initialized
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v0.6.0
+- **[CLIENT]** Updated to v0.6.1
+- **[WEB]** Updated to v0.6.1
+
+### 🚀 Features
+- **[CLIENT]** *(clean)* Improved cleaning process
+- **[CLIENT]** *(clean)* Improved cleaning process 2
+
+## [0.6.0] - 2025-04-17
+
+### 🐛 Bug Fixes
+- **[BACKEND]** *(hv)* Disabled hypervisor check
+- **[BACKEND]** Fixed initializing and offline right after bug
+
+### 🔨 Build System
+- **[WEB]** Updated to v0.6.0
+- **[BACKEND]** Updated to v0.6.0
+
+### 🚀 Features
+- **[WEB]** *(dashboard)* Updated pricing plans preview
+
 ## [0.5.0] - 2025-04-01
 
 ### 🌳 Quality of Life Improvements

@@ -2,6 +2,36 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [1.0.0] - 2025-05-01
+
+### 🐛 Bug Fixes
+- **[CLIENT]** *(crash)* Fixed a crash that sometimes happened when aiming
+- **[WEB]** Always dark notifications
+- **[WEB]** *(dashboard)* Prevent downloading when user expired
+- **[BACKEND]** Infinity license not redeeming on account creation
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v1.0.0
+- **[WEB]** Updated to v1.0.0
+- **[BACKEND]** Updated to v1.0.0
+
+### 🚀 Features
+- **[CLIENT]** Added ecstasy infinity support
+- **[CLIENT]** Optimized memory aim with 0 smoothing
+- **[CLIENT]** *(core)* Cpu optimization
+- **[CLIENT]** *(menu)* Added ecs infinity border
+- **[CLIENT]** *(watermark)* Added ecs infinity watermark
+- **[CLIENT]** *(menu)* Hide clean button for infinity sessions
+- **[WEB]** Added ecstasy infinity support
+- **[WEB]** *(pricing)* Added infinity subscription
+- **[WEB]** *(style)* Updated infinity style on dashboard
+- **[WEB]** *(dashboard)* Disabled clean button for infinity sessions
+- **[WEB]** *(tos)* Added infinity terms of service
+- **[WEB]** *(home)* Added read tos requirement on get buttons
+- **[WEB]** *(dashboard)* Updated pricing plans preview
+- **[BACKEND]** Added ecstasy infinity support
+- **[BACKEND]** *(internal)* Added infinity status support
+
 ## [0.6.1] - 2025-04-17
 
 ### 🐛 Bug Fixes
@@ -11,6 +41,7 @@ This document contains all notable changes across the Ecstasy components.
 - **[CLIENT]** Updated to v0.6.0
 - **[CLIENT]** Updated to v0.6.1
 - **[WEB]** Updated to v0.6.1
+- **[BACKEND]** Updated to v0.6.1
 
 ### 🚀 Features
 - **[CLIENT]** *(clean)* Improved cleaning process

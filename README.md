@@ -2,6 +2,24 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [1.1.4] - 2025-05-09
+
+### 🐛 Bug Fixes
+- **[WEB]** *(dashboard)* Status spacing
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v1.1.4
+- **[WEB]** Updated to v1.1.4
+- **[BACKEND]** Updated to v1.1.4
+
+### 🚀 Features
+- **[WEB]** *(home)* Full modern restyle
+
+## [1.1.0] - 2025-05-09
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v1.1.0
+
 ## [1.0.1] - 2025-05-02
 
 ### 🐛 Bug Fixes

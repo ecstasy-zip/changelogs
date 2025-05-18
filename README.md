@@ -2,6 +2,18 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [1.2.1] - 2025-05-18
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v1.2.1
+- **[BACKEND]** Updated to v1.2.1
+
+## [1.2.0] - 2025-05-18
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v1.2.0
+- **[WEB]** Updated to v1.2.0
+
 ## [1.1.4] - 2025-05-09
 
 ### 🐛 Bug Fixes

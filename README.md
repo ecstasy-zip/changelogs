@@ -2,6 +2,27 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [1.3.0] - 2025-05-30
+
+### 🐛 Bug Fixes
+- **[CLIENT]** Set default monitor
+- **[CLIENT]** Get server ip
+- **[CLIENT]** Fixed all features on all servers
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v1.3.0
+- **[WEB]** Updated to v1.3.0
+- **[BACKEND]** Updated to v1.3.0
+
+### 🚀 Features
+- **[CLIENT]** Select monitor & optimization
+- **[CLIENT]** Added low specs performance feature
+- **[CLIENT]** Added server ip log
+- **[WEB]** Added monitors and low specs perf
+- **[WEB]** Added connected server ip log
+- **[BACKEND]** Added monitors, low specs perf and server ip
+- **[BACKEND]** Updated default settings for new users
+
 ## [1.2.1] - 2025-05-18
 
 ### 🔨 Build System

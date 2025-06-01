@@ -2,6 +2,22 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [1.4.0] - 2025-06-01
+
+### 🐛 Bug Fixes
+- **[CLIENT]** Fixed some crashes while game is restarting
+- **[WEB]** Fixed output monitors not showing
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v1.4.0
+- **[WEB]** Updated to v1.4.0
+- **[BACKEND]** Updated to v1.4.0
+
+### 🚀 Features
+- **[CLIENT]** Added menu & unload keybind
+- **[WEB]** Added menu & unload keybinds and reset keybind
+- **[BACKEND]** Added menu & unload keybinds
+
 ## [1.3.0] - 2025-05-30
 
 ### 🐛 Bug Fixes

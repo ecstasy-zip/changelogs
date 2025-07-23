@@ -2,6 +2,18 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [1.4.1] - 2025-07-23
+
+### 🐛 Bug Fixes
+- **[WEB]** *(dashboard)* Fixed color pickers
+
+### 🔨 Build System
+- **[WEB]** Updated to v1.4.1
+
+### 🚀 Features
+- **[WEB]** *(dashboard)* Added sliders increment/decrement
+- **[WEB]** *(dashboard)* Updated sidebar icons
+
 ## [1.4.0] - 2025-06-01
 
 ### 🐛 Bug Fixes

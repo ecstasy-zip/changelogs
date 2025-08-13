@@ -2,6 +2,24 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [1.5.0] - 2025-08-13
+
+### 🐛 Bug Fixes
+- **[CLIENT]** Monitors are now streamed even when game is closed
+- **[CLIENT]** Fixed a bug when two monitors had the same name
+- **[CLIENT]** Default monitor is now always retrieved
+- **[WEB]** *(dashboard)* Fixed web crash on hitbox search bar
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v1.5.0
+- **[WEB]** Updated to v1.5.0
+- **[BACKEND]** Updated to v1.5.0
+
+### 🚀 Features
+- **[WEB]** *(home)* Added version in title
+- **[WEB]** *(home)* Added dmca badge
+- **[WEB]** *(home)* Updated some informations
+
 ## [1.4.1] - 2025-07-23
 
 ### 🐛 Bug Fixes

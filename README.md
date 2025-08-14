@@ -2,6 +2,18 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [1.6.0] - 2025-08-14
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v1.6.0
+- **[WEB]** Updated to v1.6.0
+- **[BACKEND]** Updated to v1.6.0
+
+### 🚀 Features
+- **[CLIENT]** Added trigger bot
+- **[WEB]** Added trigger bot
+- **[BACKEND]** Added trigger bot
+
 ## [1.5.0] - 2025-08-13
 
 ### 🐛 Bug Fixes

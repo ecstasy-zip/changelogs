@@ -2,6 +2,16 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [1.7.0] - 2025-08-25
+
+### 🔨 Build System
+- **[WEB]** Updated to v1.7.0
+- **[BACKEND]** Updated to v1.7.0
+
+### 🚀 Features
+- **[WEB]** Added godmode
+- **[BACKEND]** Added godmode
+
 ## [1.6.0] - 2025-08-14
 
 ### 🔨 Build System

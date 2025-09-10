@@ -2,13 +2,33 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [1.8.2] - 2025-09-08
+
+### 🐛 Bug Fixes
+- **[CLIENT]** Fullscreen exclusive
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v1.8.2
+- **[WEB]** Updated to v1.8.2
+- **[BACKEND]** Updated to v1.8.2
+
+### 🚀 Features
+- **[WEB]** *(home)* New hero presentation video
+
+## [1.8.1] - 2025-09-01
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v1.8.1
+
 ## [1.7.0] - 2025-08-25
 
 ### 🔨 Build System
+- **[CLIENT]** Updated to v1.7.0
 - **[WEB]** Updated to v1.7.0
 - **[BACKEND]** Updated to v1.7.0
 
 ### 🚀 Features
+- **[CLIENT]** Added godmode
 - **[WEB]** Added godmode
 - **[BACKEND]** Added godmode
 

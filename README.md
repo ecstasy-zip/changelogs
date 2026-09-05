@@ -2,6 +2,30 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [2.1.0] - 2026-02-09
+
+### 🐛 Bug Fixes
+- **[CLIENT]** Fixed multi_dist_fov requirements
+- **[WEB]** Fixed multi_dist_fov requirements
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v2.1.0
+- **[WEB]** Updated to v2.1.0
+- **[BACKEND]** Updated to v2.1.0
+
+### 🚀 Features
+- **[CLIENT]** Incremented max aim smoothing
+- **[CLIENT]** Added multi distance fov
+- **[CLIENT]** Added head markers filled
+- **[CLIENT]** Added double axis fov
+- **[CLIENT]** Teammates names, weapon & dist now follow overridden color
+- **[WEB]** Added multi distance fov
+- **[WEB]** Added head markers filled
+- **[WEB]** Added double axis fov
+- **[BACKEND]** Added multi distance fov
+- **[BACKEND]** Added head markers filled
+- **[BACKEND]** Added double axis fov
+
 ## [2.0.3] - 2026-01-16
 
 ### 🔨 Build System

@@ -2,6 +2,18 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [2.1.2] - 2026-02-16
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v2.1.2
+- **[WEB]** Updated to v2.1.2
+- **[BACKEND]** Updated to v2.1.2
+
+### 🚀 Features
+- **[CLIENT]** Disable aim on combatroll
+- **[WEB]** Disable aim on combatroll
+- **[BACKEND]** Disable aim on combatroll
+
 ## [2.1.0] - 2026-02-09
 
 ### 🐛 Bug Fixes

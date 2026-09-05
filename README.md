@@ -2,6 +2,16 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [2.0.3] - 2026-01-16
+
+### 🔨 Build System
+- **[WEB]** Updated to v2.0.3
+- **[BACKEND]** Updated to v2.0.3
+
+### 🚀 Features
+- **[WEB]** Incremented max aim smoothing
+- **[WEB]** *(tos)* Removed weekly subscription
+
 ## [2.0.2] - 2025-12-30
 
 ### 🐛 Bug Fixes

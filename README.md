@@ -2,6 +2,21 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [2.3.0] - 2026-05-16
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v2.3.0
+- **[WEB]** Updated to v2.3.0
+- **[BACKEND]** Updated to v2.3.0
+
+### 🚀 Features
+- **[CLIENT]** Passive mode bypass
+- **[CLIENT]** Added fake lag
+- **[WEB]** Passive mode bypass
+- **[WEB]** Added fake lag
+- **[BACKEND]** Passive mode bypass
+- **[BACKEND]** Added fake lag
+
 ## [2.2.5] - 2026-04-17
 
 ### 🔨 Build System

@@ -2,6 +2,13 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [2.2.5] - 2026-04-17
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v2.2.5
+- **[WEB]** Updated to v2.2.5
+- **[BACKEND]** Updated to v2.2.5
+
 ## [2.2.0] - 2026-03-30
 
 ### 🔨 Build System

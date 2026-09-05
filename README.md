@@ -2,6 +2,23 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [2.4.0] - 2026-09-05
+
+### 🐛 Bug Fixes
+- **[CLIENT]** Phoenix ac bypass
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v2.4.0
+- **[WEB]** Updated to v2.4.0
+- **[BACKEND]** Updated to v2.4.0
+
+### 🚀 Features
+- **[CLIENT]** Added visuals keybind
+- **[WEB]** Added fivem_dma product
+- **[WEB]** Added visuals keybind
+- **[BACKEND]** Added fivem_dma product
+- **[BACKEND]** Added visuals keybind
+
 ## [2.3.0] - 2026-05-16
 
 ### 🔨 Build System

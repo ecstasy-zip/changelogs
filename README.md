@@ -2,6 +2,23 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [2.2.0] - 2026-03-30
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v2.2.0
+- **[WEB]** Updated to v2.2.0
+- **[BACKEND]** Updated to v2.2.0
+
+### 🚀 Features
+- **[CLIENT]** Added player id to player name
+- **[CLIENT]** Added enable friend list & disable visuals
+- **[CLIENT]** Added player id option
+- **[WEB]** Added 26H1 support
+- **[WEB]** Added enable friend list & disable visuals
+- **[WEB]** Added player id option
+- **[BACKEND]** Added enable friend list & disable visuals
+- **[BACKEND]** Added player id option
+
 ## [2.1.2] - 2026-02-16
 
 ### 🔨 Build System

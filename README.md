@@ -2,6 +2,22 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [2.0.2] - 2025-12-30
+
+### 🐛 Bug Fixes
+- **[CLIENT]** Fixed output monitor not saving state
+- **[CLIENT]** Fixed radar settings not passing through network
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v2.0.2
+- **[WEB]** Updated to v2.0.2
+- **[BACKEND]** Updated to v2.0.2
+
+### 🚀 Features
+- **[CLIENT]** Removed raycast intersect peds
+- **[WEB]** Removed raycast intersect peds
+- **[BACKEND]** Removed raycast intersect peds
+
 ## [2.0.0] - 2025-12-27
 
 ### 🐛 Bug Fixes

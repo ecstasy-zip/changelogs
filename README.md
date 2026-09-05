@@ -2,6 +2,56 @@
 
 This document contains all notable changes across the Ecstasy components.
 
+## [2.0.0] - 2025-12-27
+
+### 🐛 Bug Fixes
+- **[CLIENT]** Fixed scroll wheel
+- **[CLIENT]** Fixed menu sync while loading
+- **[CLIENT]** Fixed triggerbot head fov
+- **[WEB]** Fixed FN beta download
+- **[WEB]** Fixed settings group color
+- **[WEB]** Fixed FN time left chart
+
+### 🔨 Build System
+- **[CLIENT]** Updated to v2.0.0
+- **[WEB]** Updated to v2.0.0
+- **[BACKEND]** Updated to v2.0.0
+
+### 🚀 Features
+- **[CLIENT]** Added beta menu and new visuals
+- **[CLIENT]** Added beta aim system and raycast configuration
+- **[CLIENT]** Added HVCI support
+- **[CLIENT]** Added FiveGuard bypass
+- **[CLIENT]** Added WaveShield bypass
+- **[CLIENT]** Added Electron bypass
+- **[CLIENT]** Restyled menu and controls
+- **[CLIENT]** Added unload system
+- **[CLIENT]** Added server ip, Nvidia streamproof and automatic output monitor/resolution handling
+- **[CLIENT]** Added head markers sizing, hitbox selections and skeleton segments
+- **[CLIENT]** Added triggerbot and additional targeting options
+- **[CLIENT]** Added improved player informations and esp preview
+- **[CLIENT]** Added players around
+- **[CLIENT]** Added friend list with web sync
+- **[CLIENT]** Added magic bullet keybind
+- **[CLIENT]** Added option to block game camera input
+- **[WEB]** *(home)* Added ecstasy fn
+- **[WEB]** Restyled dashboard and improved mobile esp preview
+- **[WEB]** Added persistent sidebar and updated infinity v2 controls
+- **[WEB]** *(home)* Added payments
+- **[WEB]** Added head markers, hitbox, triggerbot and skeleton settings
+- **[WEB]** Added target, streamproof and camera input settings
+- **[WEB]** Added server info and friend list
+- **[WEB]** Added new, updated and risky badges
+- **[WEB]** Added unload animations and moved status to overview
+- **[WEB]** Updated memory/silent aim controls, hero and tos
+- **[BACKEND]** Updated public default settings and colors
+- **[BACKEND]** Added head markers, hitbox and triggerbot settings
+- **[BACKEND]** Added target controls
+- **[BACKEND]** Added friend list sync
+- **[BACKEND]** Added magic bullet keybind support
+- **[BACKEND]** Added option to block game camera input
+- **[BACKEND]** Removed ecstasy standard support
+
 ## [1.8.2] - 2025-09-08
 
 ### 🐛 Bug Fixes
